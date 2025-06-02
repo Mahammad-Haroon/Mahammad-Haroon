@@ -6,11 +6,6 @@
 
 🔍 I specialize in deriving insights from data and building predictive models using **Machine Learning**, **Data Science**, and **Flask-based Web Applications**.
 
-🚀 Currently working on:
-- 🧠 Online Payment Fraud Detection using XGBoost
-- 📊 Customer Churn Prediction App
-- 📈 Business Intelligence Dashboards with Power BI and Tableau
-
 🛠️ Tech I work with:
 - Python, Flask, Scikit-learn, XGBoost, Pandas
 - Power BI, Tableau
