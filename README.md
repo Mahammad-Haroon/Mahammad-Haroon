@@ -7,8 +7,9 @@
 
 🛠️ Tech I work with:
 - Python, Flask, Scikit-learn, XGBoost, Pandas
-- Power BI, Tableau
+- Power BI, Tableau,SQL,EXCEL,
 - HTML5, CSS3, JavaScript
+- Data Visualization 
 - Git, Jupyter Notebook
 
 
