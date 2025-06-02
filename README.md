@@ -1,19 +1,20 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">Data Scientist | ML Enthusiast | Web App Developer</h3>
+<h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
+<h3 align="center">Data Scientist | Data Analyst | ML Enthusiast</h3>
 
 ---
 
-🔍 I specialize in building intelligent solutions with **Machine Learning**, **Data Science**, and **Flask-based Web Applications**.
+🔍 I specialize in deriving insights from data and building predictive models using **Machine Learning**, **Data Science**, and **Flask-based Web Applications**.
 
 🚀 Currently working on:
 - 🧠 Online Payment Fraud Detection using XGBoost
 - 📊 Customer Churn Prediction App
-- 🌐 Deploying ML Models via Flask & Heroku
+- 📈 Business Intelligence Dashboards with Power BI and Tableau
 
 🛠️ Tech I work with:
 - Python, Flask, Scikit-learn, XGBoost, Pandas
+- Power BI, Tableau
 - HTML5, CSS3, JavaScript
-- Git, Heroku, Jupyter Notebook
+- Git, Jupyter Notebook
 
 ---
 
@@ -39,7 +40,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
