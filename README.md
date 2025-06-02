@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>Add commentMore actions
+<h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
 
 <h2 align="center">Data Scientist | Data Analyst | ML Enthusiast | Business analyst </h2>
 
----
 
 🔍 I specialize in deriving insights from data and building predictive models using **Machine Learning**, **Data Science**, and **Flask-based Web Applications**.
 
@@ -12,7 +11,7 @@
 - HTML5, CSS3, JavaScript
 - Git, Jupyter Notebook
 
----
+
 
 ### 📫 Connect with me
 
@@ -26,7 +25,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools
 
@@ -44,6 +43,6 @@
 
 ---
 
-📖 *"Turning data into decisions, one model at a time."*
+📖 Turning data into decisions, one model at a time.
 
-🐍 *Always learning, always building.*
+🐍 Always learning, always building.
