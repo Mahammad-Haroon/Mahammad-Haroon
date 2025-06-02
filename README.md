@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>Add commentMore actions
-<h3 align="center">Data Scientist | Data Analyst | ML Enthusiast</h3>
-<h3 align="center">Data Scientist | Data Analyst | ML Enthusiast | Business analyst </h3>
+
+<h2 align="center">Data Scientist | Data Analyst | ML Enthusiast | Business analyst </h2>
 
 ---
 
