@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
-<h3 align="center">Data Scientist | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">Data Scientist | Data Analyst | ML Enthusiast | Business analyst </h3>
 
 ---
 
