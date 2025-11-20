@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
 
-<h2 align="center">Data Scientist | Data Analyst | ML Engineer | Business Analyst</h2>
+<h2 align="center">Data Scientist | Data Analyst | ML Engineer | Business Analyst| Full stack Developer </h2>
 
 🔍 Data Science graduate with hands-on experience in building scalable ML models, data pipelines, and analytic dashboards.  
 Achieved **93% accuracy** using CNN + OpenCV for currency detection and built ML-powered churn prediction & fraud detection systems.
