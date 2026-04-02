@@ -4,7 +4,7 @@
 
 🔍 Data Science graduate with hands-on experience in Machine Learning, Deep Learning, Data Analytics, and Full Stack Web Development.  
 Achieved **93% accuracy** using CNN + OpenCV for currency detection and built scalable ML + web applications using Flask, PHP, SQL, and JavaScript.  
-Currently working as a **Project Manager @ OceanX Technology** and **Technical Mentor** guiding students in Python, Data Science, Web Development & Software Engineering.
+Currently working as a **Project Manager @ OceanX Technology** and **Technical Mentor @ Kalvium**, guiding students in Python, Data Science, Web Development & Software Engineering.
 
 ---
 
