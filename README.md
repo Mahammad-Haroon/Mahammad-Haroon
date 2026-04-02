@@ -1,123 +1,130 @@
-<h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
+<h1 align="center">Hi 👋, I'm Mahammad Haroon</h1>
+<h3 align="center">Project Manager | Data Scientist | ML Engineer | Data Analyst | Full Stack Developer</h3>
 
-<h2 align="center">
-Data Scientist | Data Analyst | ML Engineer | Business Analyst | Full Stack Developer | Project Manager
-</h2>
-
-🔍 Data Science graduate with hands-on experience in Machine Learning, Deep Learning, Data Analytics, and Full Stack Web Development.  
-Achieved **93% accuracy** using CNN + OpenCV for currency detection and built scalable ML + web applications using Flask, PHP, SQL, and JavaScript.  
-
-🚀 Currently working as a **Project Manager @ OceanX Technology** and a **Technical Mentor**, guiding students in Python, Data Science, Web Development & Software Engineering.
-
----
-
-## 💼 Professional Experience
-
-**Project Manager — OceanX Technology**
-
-- Managing software development and data-driven projects  
-- Leading cross-functional teams of developers and analysts  
-- Planning project timelines, deliverables, and milestones  
-- Coordinating between clients and development teams  
-- Ensuring quality delivery of ML and Web-based solutions  
-- Applying Agile methodologies for efficient project execution  
+<p align="center">
+🚀 Project Manager at <b>OceanX Technology</b> <br>
+🧠 Data Science & Machine Learning Enthusiast <br>
+💻 Full Stack Developer building ML-powered applications <br>
+📊 Turning data into insights and scalable solutions
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
 
-### 💻 Programming
-- Python
-- SQL
-- PHP
-- JavaScript
-- HTML5
-- CSS3
+- 🎓 Data Science Graduate with strong background in **Machine Learning, Data Analytics, and Web Development**
+- 🚀 Currently working as **Project Manager @ OceanX Technology**
+- 👨‍🏫 Technical Mentor teaching **Python, Data Science, and Web Development**
+- 🧠 Built ML models with **93% accuracy using CNN + OpenCV**
+- 🌐 Developed full stack applications using **Flask, PHP, SQL, JavaScript**
+- 📈 Passionate about **AI, Data-driven decision making, and scalable systems**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+Python • SQL • PHP • JavaScript • HTML5 • CSS3
+
+### 🤖 Machine Learning & AI
+Machine Learning • Deep Learning • CNN • XGBoost • OpenCV  
+Classification • Regression • Clustering
 
 ### 🌐 Full Stack Development
-- Flask
-- PHP + MySQL
-- SQLite
-- Bootstrap
-- REST APIs
-
-### 🤖 Machine Learning & Data Science
-- Machine Learning
-- Deep Learning
-- XGBoost
-- CNN
-- OpenCV
-- Classification
-- Regression
-- Clustering
+Flask • PHP • MySQL • SQLite • Bootstrap • REST APIs
 
 ### 📊 Data Analytics & Visualization
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-- Excel
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
+Power BI • Tableau • Matplotlib • Seaborn • Excel • EDA
 
 ### 📈 Project Management
-- Agile Methodology
-- Scrum
-- Project Planning
-- Team Leadership
-- Stakeholder Communication
-- Task & Timeline Management
-- Requirement Analysis
+Agile • Scrum • Project Planning • Team Leadership  
+Stakeholder Communication • Requirement Analysis
 
 ### 🧰 Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
-## 📫 Connect with me
+# 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/haroon-data-analyst-business-analyst/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### 💰 Currency Detection using CNN + OpenCV
+- Achieved **93% accuracy**
+- Used **Deep Learning + Computer Vision**
+- Detects and classifies currency notes using image processing
 
-  <a href="https://github.com/Mahammad-Haroon" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+---
 
-  <a href="https://www.instagram.com/haroon._.mohd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+### 📊 Business Data Analytics Dashboard
+- Built using **Power BI & Tableau**
+- Provides insights into business performance
+- Automated reporting and KPI monitoring
+
+---
+
+### 🌐 Full Stack ML Web Application
+- Backend: **Flask**
+- Frontend: **HTML, CSS, JavaScript**
+- Integrated ML model for real-time predictions
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mahammad-Haroon&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahammad-Haroon&theme=tokyonight" />
+
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+# 📈 Most Used Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahammad-Haroon&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-📊 *Turning data into meaningful insights and business solutions.*  
-🧑‍💻 *Building ML-powered full stack applications.*  
-📈 *Managing projects that deliver real-world impact.*  
-🐍 *Always learning, always building.*
+# 🏆 Achievements
+
+- 🧠 Built ML model with **93% accuracy**
+- 👨‍🏫 Mentored **students in Python & Data Science**
+- 💻 Delivered **ML and full stack applications**
+- 📊 Experience in **Data Analytics & Visualization**
+
+---
+
+# 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/haroon-data-analyst-business-analyst/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mahammad-Haroon">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/haroon._.mohd">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mahammad-Haroon&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+⭐ Always learning | 🚀 Always building | 📊 Always improving
+</p>
