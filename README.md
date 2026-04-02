@@ -1,25 +1,83 @@
 <h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
 
-<h2 align="center">Data Scientist | Data Analyst | ML Engineer | Business Analyst | Full Stack Developer</h2>
+<h2 align="center">
+Data Scientist | Data Analyst | ML Engineer | Business Analyst | Full Stack Developer | Project Manager
+</h2>
 
 🔍 Data Science graduate with hands-on experience in Machine Learning, Deep Learning, Data Analytics, and Full Stack Web Development.  
 Achieved **93% accuracy** using CNN + OpenCV for currency detection and built scalable ML + web applications using Flask, PHP, SQL, and JavaScript.  
-Currently working as a **Technical Mentor** guiding students in Python, Data Science, Web Development & Software Engineering.
+
+🚀 Currently working as a **Project Manager @ OceanX Technology** and a **Technical Mentor**, guiding students in Python, Data Science, Web Development & Software Engineering.
 
 ---
 
-### 🛠️ I work with:
-- **Programming:** Python, SQL, PHP, HTML, CSS, JavaScript  
-- **Backend Frameworks:** Flask, PHP, SQLite, MySQL  
-- **Frontend:** Bootstrap, HTML5, CSS3, JavaScript  
-- **Full Stack:** Flask + HTML/CSS/JS, PHP + MySQL  
-- **Machine Learning:** XGBoost, CNN, OpenCV, Classification, Regression, Clustering  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Excel  
+## 💼 Professional Experience
+
+**Project Manager — OceanX Technology**
+
+- Managing software development and data-driven projects  
+- Leading cross-functional teams of developers and analysts  
+- Planning project timelines, deliverables, and milestones  
+- Coordinating between clients and development teams  
+- Ensuring quality delivery of ML and Web-based solutions  
+- Applying Agile methodologies for efficient project execution  
 
 ---
 
-### 📫 Connect with me
+## 🛠️ Skills & Technologies
+
+### 💻 Programming
+- Python
+- SQL
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+
+### 🌐 Full Stack Development
+- Flask
+- PHP + MySQL
+- SQLite
+- Bootstrap
+- REST APIs
+
+### 🤖 Machine Learning & Data Science
+- Machine Learning
+- Deep Learning
+- XGBoost
+- CNN
+- OpenCV
+- Classification
+- Regression
+- Clustering
+
+### 📊 Data Analytics & Visualization
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+- Excel
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+### 📈 Project Management
+- Agile Methodology
+- Scrum
+- Project Planning
+- Team Leadership
+- Stakeholder Communication
+- Task & Timeline Management
+- Requirement Analysis
+
+### 🧰 Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📫 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/haroon-data-analyst-business-analyst/" target="_blank">
@@ -37,7 +95,7 @@ Currently working as a **Technical Mentor** guiding students in Python, Data Sci
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -61,5 +119,5 @@ Currently working as a **Technical Mentor** guiding students in Python, Data Sci
 
 📊 *Turning data into meaningful insights and business solutions.*  
 🧑‍💻 *Building ML-powered full stack applications.*  
+📈 *Managing projects that deliver real-world impact.*  
 🐍 *Always learning, always building.*
-
