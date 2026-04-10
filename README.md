@@ -18,7 +18,7 @@ Currently working as a **Project Manager @ OceanX Technology** and **Technical M
 - **Project Management:** Agile, Scrum, Project Planning, Team Leadership, Stakeholder Communication, Requirement Analysis  
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Excel  
 
----
+
 
 ### 📫 Connect with me
 
