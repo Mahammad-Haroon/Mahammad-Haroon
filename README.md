@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
+ <h1 align="center">Hi there, I'm Mahammad Haroon 👋</h1>
 
 <h2 align="center">Project Manager | Data Scientist | Data Analyst | ML Engineer | Business Analyst | Full Stack Developer</h2>
 
